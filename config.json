@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "easiriqbalmahi6244@gmail.com",
-    "password": "loveyou3000",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,10 +17,10 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100081894480123", "100072881080249"],
+    "", "100071288633689"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100081894480123","100072881080249"],
+    "whiteListIds": ["","100071288633689"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " 乃卂几Ҝ卂| - 卂| ",
