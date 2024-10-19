@@ -65,11 +65,11 @@ module.exports = {
       msg += `👑 | 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆 𝐋𝐎𝐑𝐃 𝐀𝐈𝐙𝐄𝐍 𝐉𝐑'𝐒 𝐁𝐎𝐓 𝐖𝐄'𝐋𝐋 𝐂𝐎𝐌𝐄 𝐖𝐈𝐓𝐇 𝐍𝐄𝐖 𝐔𝐏𝐃𝐀𝐓𝐄 𝐄𝐕𝐄𝐑𝐘 𝐖𝐄𝐄𝐊`; // its not decoy so change it if you want 
 
       const helpListImages = [
-        "https://i.imgur.com/Jhdzcfl.gif", // don't change imgur
-        "https://i.imgur.com/Xl2vJSB.gif",
-        "https://i.imgur.com/j4Gl2ZT.gif",
-        "https://i.imgur.com/wY3j9E1.gif",
-        "https://i.imgur.com/9bjkgqP.gif",
+        "", // don't change imgur
+        "",
+        "",
+        "",
+        "",
         // don't change imgur
       ];
 
